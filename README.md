@@ -1,6 +1,6 @@
 # Hack Squad – Community Roadmap 🚀  
 
-![Hack Squad Banner](https://path-to-your-banner-image)  
+![Hack Squad Banner](https://github.com/HackSquadHQ/community-roadmap/blob/main/hacksquad%20logo%20-%20Copy.png) 
 
 ---
 
@@ -19,8 +19,6 @@ This repository contains the official roadmap for our first Hack Squad cohort.
 - **Hands-on Labs & Tools** (Wireshark, Nmap, Linux, etc.)  
 - **Mini Projects** (2 per month to reinforce learning)  
 - **Capstone Project** (portfolio-ready, job-market relevant)  
-
-📌 Full roadmap PDF: [Download here](link-to-your-roadmap-pdf)  
 
 ---
 
