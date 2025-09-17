@@ -27,4 +27,4 @@
 - Report: report.md
 - Screenshots: /@yourgithubusername/screenshots/
 - Tools used: Cisco platform, research
-- Key Takeaways: (3 bullets)
+
