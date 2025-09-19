@@ -26,5 +26,5 @@
 - Notes: notes.md
 - Report: report.md
 - Screenshots: /@yourgithubusername/screenshots/
-- Tools used: Cisco platform, research
+
 
